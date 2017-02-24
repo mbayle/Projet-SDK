@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/wilder/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/wilder/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_99b0fb52bb0f866f80ef26bbe06febfd618b4a03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wilder/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/wilder/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_912c498702ce69693988745811f7a8e95616e8c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wilder/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/wilder/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_ecab6163a4c7a53885ad659a6c6ea760db57bd5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wilder/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6dd12972d53c649d04f90b6054f04c308db363c1">
+        <dex dex="/home/wilder/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_085b758d14082320ade9b83fae80dc054f96d474/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wilder/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/wilder/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_ad94e59a62d9ebc2d27f6bac41868c3684badb2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wilder/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/wilder/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_8abbaceb3d111158eaef91b078d208b19c961404/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wilder/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/wilder/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_3d108bfe383ccd3cbd65dc0a062ab0ebdb259938/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wilder/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/wilder/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_cc6c436e5ab96a28f872900d120f2cd34362f204/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wilder/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/wilder/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_f9498aed307f89a7275458007311f1b1f1dbe429/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wilder/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/wilder/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_26fc9f5d61308268fa47b742747b47b82ae71fe1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wilder/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/wilder/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_467752cb5e0076b97ae73788d42bd7e03a33b5f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wilder/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7fa8df2cbdedd225bb87f52be132b8e81345b67">
+        <dex dex="/home/wilder/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2d5db0077423c382d60e9fa7018cb6bcb3cafcbe/classes.dex" />
+    </item>
+
+</items>
